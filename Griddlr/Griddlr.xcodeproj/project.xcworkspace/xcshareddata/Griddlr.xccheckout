@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9DF313DD-4A09-406C-B42E-810E7DA69C50</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Griddlr</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0106C632B2DE602DE9D87715F7A709DEFFC6C22B</key>
+		<string>https://github.com/Duraznos/griddler.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Griddlr/Griddlr.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0106C632B2DE602DE9D87715F7A709DEFFC6C22B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Duraznos/griddler.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0106C632B2DE602DE9D87715F7A709DEFFC6C22B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0106C632B2DE602DE9D87715F7A709DEFFC6C22B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>griddler</string>
+		</dict>
+	</array>
+</dict>
+</plist>
